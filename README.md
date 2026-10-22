@@ -1,2 +1,2 @@
 # parcial-segunda-parte
-Esfera con norme 
+Esfera con nombre
